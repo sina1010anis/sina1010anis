@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **sina1010anis/sina1010anis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
