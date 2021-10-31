@@ -3,7 +3,15 @@
 
  Interest in learning and discipline at work, eager to learn new technologies
 
-- Telegram = sina_nbzh :iphone:
+
+- :frowning_man: I'm more interested in backends 
+
+- :globe_with_meridians: Web Developer
+
+- :email: Email = sina1010anis@gmail.com
+
+- :iphone: Telegram = sina_nbzh 
+
 
 <div style="    display: flex;
     justify-content:center;
