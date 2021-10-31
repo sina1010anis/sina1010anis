@@ -5,9 +5,13 @@
 
 - Telegram = sina_nbzh :iphone:
 
+<div style="    display: flex;
+    justify-content:center;
+    align-items: center;"
 <a href="https://github.com/sina1010anis">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina1010anis" />
 </a>
+</div>
 
 
 
