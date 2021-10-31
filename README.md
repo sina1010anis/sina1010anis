@@ -1,7 +1,7 @@
-<h2 align="center">Hi , i'm sina nayebzade ,I am a full stack programmer :open_hands:</h2>
+<h1 align="center">Hi , i'm sina nayebzade ,I am a full stack programmer :open_hands:</h1>
 
 
- Interest in learning and discipline at work, eager to learn new technologies
+ <p align="center">Interest in learning and discipline at work, eager to learn new technologies</p>
 
 
 - :frowning_man: I'm more interested in backends 
