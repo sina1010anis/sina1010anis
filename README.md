@@ -10,7 +10,7 @@
 
 - :email: Email = sina1010anis@gmail.com
 
-- :iphone: Telegram = sina_nbzh 
+- :iphone: Telegram = @sina_nbzh 
 
 
 <div style="    display: flex;
