@@ -3,7 +3,7 @@
 
  <p align="center">Interest in learning and discipline at work, eager to learn new technologies</p>
 
-<h2 align="center">my skills :</h2>
+<h3 align="left">my skills</h3>
 
 - :globe_with_meridians: Web Developer
 
@@ -28,6 +28,7 @@
   - bootstrap v-5
   - html5
 
+<h3 align="left">Link</h3>
 
 - :email: Email = sina1010anis@gmail.com
 
