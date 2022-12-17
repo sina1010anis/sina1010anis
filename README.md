@@ -3,10 +3,31 @@
 
  <p align="center">Interest in learning and discipline at work, eager to learn new technologies</p>
 
-
-- :frowning_man: I'm more interested in backends 
+<h2 align="center">my skills :</h2>
 
 - :globe_with_meridians: Web Developer
+
+- :frowning_man: I'm more interested in backends
+
+- backend :
+
+  - php v-8
+  - laravel v-9
+  - mysql
+  - api
+  - OOP
+  - SOLID
+  - design pattern
+  
+- frontend
+
+  - javascript
+  - vuejs v-3
+  - livewire v-2
+  - css3
+  - bootstrap v-5
+  - html5
+
 
 - :email: Email = sina1010anis@gmail.com
 
