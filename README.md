@@ -1,55 +1,29 @@
-<h1 align="center">Hi , i'm sina nayebzade ,I am a full stack programmer :open_hands:</h1>
+# 💫 About Me: I am Sina, I am interested in web programming and I work mostly in the back-end area.
+🌍Interested in web programming<br>📖love to learn<br>😎regular<br>💻Strong interest in backend programming
 
 
- <p align="center">Interest in learning and discipline at work, eager to learn new technologies</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sina_nayb)
+<br>
+. 📧Email = sina1010anis@gmail.com
+. 📱 Telegram = @sina_nbzh
 
-<h3 align="left">my skills</h3>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+. OOP
+. Design Pattern
+. SOLID
 
-- :globe_with_meridians: Web Developer
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sina1010anis&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sina1010anis&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sina1010anis&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- :frowning_man: I'm more interested in backends
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sina1010anis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- backend :
+---
+[![](https://visitcount.itsvg.in/api?id=sina1010anis&icon=2&color=9)](https://visitcount.itsvg.in)
 
-  - php v-8
-  - laravel v-9
-  - mysql
-  - api
-  - OOP
-  - SOLID
-  - design pattern
-  
-- frontend
-
-  - javascript
-  - vuejs v-3
-  - livewire v-2
-  - css3
-  - bootstrap v-5
-  - html5
-
-<h3 align="left">Link</h3>
-
-- :email: Email = sina1010anis@gmail.com
-
-- :iphone: Telegram = @sina_nbzh 
-
-
-<div style="    display: flex;
-    justify-content:center;
-    align-items: center;"
-<a href="https://github.com/sina1010anis">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina1010anis" />
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
