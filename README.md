@@ -14,6 +14,7 @@
 . OOP<br>
 . Design Pattern<br>
 . SOLID<br>
+. Broadcasting (beyondco laravel websocket)<br>
 
 
 # 📊 GitHub Stats:
