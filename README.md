@@ -23,7 +23,7 @@ class Skills extends Developer {
 
 class Bio extends Developer {
     name = 'Sina Nayebzade';
-    role = 'Full-End Developer(more interest: Back-End)';
+    role = 'Full-stack Developer(more interest: Back-End)';
     email = 'sina1010anis@gmail.com';
     location = 'Iran, Mashhad';
     social = [
