@@ -13,7 +13,7 @@
     <a href="https://instagram.com/sina_nbzh">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
     </a>      
-     <a href="https://linkedin.com/in/sina">
+     <a href="https://www.linkedin.com/in/sina-nayebzade-82624228a/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
     </a>
      <a href="https://stackoverflow.com/users/20596419">
