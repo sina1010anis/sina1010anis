@@ -28,7 +28,11 @@ class Bio extends Developer {
     location = 'Iran, Mashhad';
     social = [
         { name: 'Telegram',  url: 'sina_nayb' },
-        { name: 'Instagram', url: '@sina_nbzh' }
+        { name: 'Instagram', url: '@sina_nbzh' },
+        { name: 'Stack overflow', url: 'stackoverflow.com/users/20596419/sina-nbxh' },
+        { name: 'Linkedin', url: 'linkedin.com/in/sina-nayebzade-82624228a/' },
+
+
     ];
     behavior=[
         'Interested in web programming',
