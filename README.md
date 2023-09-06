@@ -30,8 +30,8 @@ import { Languages, Databases, Frameworks, Others } from 'MySoft/Skills';
 class Skills extends Developer {
     languages = ['PHP', 'JavaScript'];
     databases = ['MySQL', 'MongoDB'];
-    frameworks = ['Laravel', 'Vuejs' , 'Bootstrap' , 'jquery'];
-    others = ['Git', 'Docker', 'Broadcasting' , 'SOLID' , 'Design Pattern' , 'OOP'];
+    frameworks = ['Laravel', 'Laravel modules', 'PHPUnit', 'Vuejs', 'Bootstrap', 'jquery'];
+    others = ['Git', 'Docker', 'Broadcasting', 'SOLID', 'Design Pattern' , 'OOP'];
 }
 
 class Bio extends Developer {
