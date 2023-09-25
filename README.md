@@ -33,9 +33,14 @@ use Skills\Facade\Databases;
 use Skills\Facade\Frameworks;
 use Skills\Facade\Others;
 use About\Facade\Bio;
+
 class SinaNayebzade extends Developer
 {
+
     use Languages, Databases, Frameworks, Others, Bio;
+
+    const ABOUT_MY = 'I am a full stack developer but I am more interested in backend';
+
     public function skills()
     {
 
