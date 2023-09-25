@@ -33,14 +33,11 @@ use Skills\Facade\Databases;
 use Skills\Facade\Frameworks;
 use Skills\Facade\Others;
 use About\Facade\Bio;
-
 class SinaNayebzade extends Developer
 {
-
     use Languages, Databases, Frameworks, Others, Bio;
 
     const ABOUT_MY = 'I am a full stack developer but I am more interested in backend';
-
     public function skills()
     {
 
@@ -57,15 +54,14 @@ class SinaNayebzade extends Developer
     public function bio()
     {
 
-        Bio::about('Sina Nayebzade', 'Full-stack Developer(interest: Back-End)', 'sina1010anis@gmail.com', 'Iran, Mashhad');
-
-        Bio::social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'linkedin.com/in/sina-nayebzade-84b65728b/']);
-
-        Bio::behavior(['Interested in web programming', 'love to learn', 'regular', 'Strong interest in backend programming']);
+        Bio::about('Sina Nayebzade', 'Full-stack Developer(interest: Back-End)', 'sina1010anis@gmail.com', 'Iran, Mashhad')
+            ->social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'linkedin.com/in/sina-nayebzade-84b65728b/'])
+            ->behavior(['Interested in web programming', 'love to learn', 'regular', 'Strong interest in backend programming']);
 
     }
 
 }
+
 
 ```
 <div id="badges" align="center">
