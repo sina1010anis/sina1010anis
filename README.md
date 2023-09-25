@@ -23,38 +23,45 @@
 
 ### :man_technologist: About Me
 
-```js
-import Developer from 'sina_nayebzade';
-import { Languages, Databases, Frameworks, Others } from 'MySoft/Skills';
+```php
+<?php
 
-class Skills extends Developer {
-    languages = ['PHP', 'JavaScript'];
-    databases = ['MySQL', 'MongoDB'];
-    frameworks = ['Laravel', 'Laravel modules', 'PHPUnit', 'Vuejs', 'Bootstrap', 'jquery'];
-    others = ['Git', 'Docker', 'Broadcasting', 'SOLID', 'Design Pattern' , 'OOP'];
+namespace Developer\FullStack;
+
+use Skills\Facade\Languages;
+use Skills\Facade\Databases;
+use Skills\Facade\Frameworks;
+use Skills\Facade\Others;
+use About\Facade\Bio;
+class SinaNayebzade extends Developer
+{
+    use Languages, Databases, Frameworks, Others, Bio;
+    public function skills()
+    {
+
+        Languages::push(['PHP', 'JavaScript']);
+
+        Databases::push(['MySQL', 'MongoDB', 'Elasticsearch']);
+
+        Frameworks::push(['Laravel', 'PHPUnit', 'Vuejs', 'Bootstrap', 'jquery']);
+
+        Others::push(['Git', 'Laravel modules', 'Docker', 'Broadcasting', 'SOLID', 'Design Pattern', 'OOP']);
+
+    }
+
+    public function bio()
+    {
+
+        Bio::about('Sina Nayebzade', 'Full-stack Developer(interest: Back-End)', 'sina1010anis@gmail.com', 'Iran, Mashhad');
+
+        Bio::social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'linkedin.com/in/sina-nayebzade-84b65728b/']);
+
+        Bio::behavior(['Interested in web programming', 'love to learn', 'regular', 'Strong interest in backend programming']);
+
+    }
+
 }
 
-class Bio extends Developer {
-    name = 'Sina Nayebzade';
-    role = 'Full-stack Developer(interest: Back-End)';
-    email = 'sina1010anis@gmail.com';
-    location = 'Iran, Mashhad';
-    social = [
-        { name: 'Telegram',  url: 'sina_nayb' },
-        { name: 'Instagram', url: '@sina_nbzh' },
-        { name: 'Stack overflow', url: 'stackoverflow.com/users/20596419/sina-nbxh' },
-        { name: 'Linkedin', url: 'linkedin.com/in/sina-nayebzade-84b65728b/' },
-    ];
-    behavior=[
-        'Interested in web programming',
-        'love to learn',
-        'regular',
-        'Strong interest in backend programming',
-    ]
-}
-
-
-export default () => new Developer(Bio, Skills);
 ```
 <div id="badges" align="center">
     <a>
