@@ -57,7 +57,7 @@ class SinaNayebzade extends Developer
         Bio::about('Sina Nayebzade', 'Full-stack Developer(interest: Back-End)', 'sina1010anis@gmail.com', 'Iran, Mashhad')
             ->social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'linkedin.com/in/sina-nayebzade-84b65728b/'])
             ->behavior(['Interested in web programming', 'love to learn', 'regular', 'Strong interest in backend programming']);
-self::ABOUT_MY;
+        self::ABOUT_MY;
 
     }
 
