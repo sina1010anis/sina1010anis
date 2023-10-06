@@ -13,7 +13,9 @@
     <a href="https://instagram.com/sina_nbzh">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
     </a>      
-     <a href="https://www.linkedin.com/in/sina-nayebzade-84b65728b/">
+     <a href="www.linkedin.com/in/sina-nayebzadeh
+
+">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
     </a>
      <a href="https://stackoverflow.com/users/20596419">
@@ -55,7 +57,7 @@ class SinaNayebzade extends Developer
     {
 
         Bio::about('Sina Nayebzade', 'Full-stack Developer(interest: Back-End)', 'sina1010anis@gmail.com', 'Iran, Mashhad')
-            ->social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'linkedin.com/in/sina-nayebzade-84b65728b/'])
+            ->social(['Telegram' => 'sina_nayb', 'Instagram' => '@sina_nbzh', 'Stack overflow' => 'stackoverflow.com/users/20596419/sina-nbxh', 'Linkedin' => 'www.linkedin.com/in/sina-nayebzadeh'])
             ->behavior(['Interested in web programming', 'love to learn', 'regular', 'Strong interest in backend programming']);
         self::ABOUT_MY;
 
