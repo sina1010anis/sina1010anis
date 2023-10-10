@@ -47,7 +47,7 @@ class SinaNayebzade extends Developer
 
         Frameworks::push(['Laravel', 'PHPUnit', 'Vuejs', 'Bootstrap', 'jquery']);
 
-        Others::push(['Git', 'Laravel modules', 'Docker', 'Broadcasting', 'SOLID', 'Design Pattern', 'OOP']);
+        Others::push([ 'OOP','Design Pattern', 'SOLID', 'MVC', 'HMVC', 'Laravel modules', 'Docker', 'Broadcasting', 'Git']);
 
     }
 
