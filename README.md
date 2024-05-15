@@ -43,7 +43,7 @@ class SinaNayebzade extends Developer
 
         Languages::push(['PHP', 'JavaScript']);
 
-        Databases::push(['MySQL', 'Redis', 'MongoDB', 'Elasticsearch']);
+        Databases::push(['MySQL', 'Redis', 'MongoDB']);
 
         Frameworks::push(['Laravel', 'PHPUnit', 'Vuejs', 'Bootstrap', 'jquery']);
 
