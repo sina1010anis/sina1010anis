@@ -37,7 +37,7 @@ class SinaNayebzade extends Developer
 {
     use Languages, Databases, Frameworks, Others, Bio;
 
-    const ABOUT_MY = 'I am a full stack developer but I am more interested in backend';
+    const ABOUT_MY = 'Website backend developer';
     public function skills()
     {
 
